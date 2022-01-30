@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
+    <string name="enter_name_for_player_1">Enter name for Player 1:</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="enter_name_for_player_2">Enter name for Player 2:</string>
+    <string name="next">NEXT</string>
 </resources>
